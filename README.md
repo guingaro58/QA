@@ -8,10 +8,11 @@ Aqui você encontrará exemplos de automação de testes, boas práticas, anota�
 💡 **Objetivo:** compartilhar conhecimento, organizar aprendizados e contribuir com a comunidade QA.  
 
 📁 **Conteúdos:**
-- Scripts e frameworks de automação  
-- Test cases e checklists  
+- Planos de teste 
+- Checklists  
 - Templates de documentação QA  
-- Estudos sobre metodologias ágeis e CI/CD  
+- Estudos sobre metodologias ágeis e CI/CD
+- Scripts e frameworks de automação (Em breve)  
 
 ---
 
