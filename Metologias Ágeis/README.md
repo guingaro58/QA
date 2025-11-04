@@ -1,4 +1,4 @@
-# ⚡ Metodologias Ágeis para QA — Scrum
+# ⚡ Metodologias Ágeis para QA - Scrum
 
 Este documento faz parte do repositório de boas práticas e templates para QAs.  
 Aqui exploramos a **metodologia ágil Scrum** sob a ótica do **Quality Assurance**, destacando sua importância no ciclo de desenvolvimento, o papel do QA dentro do time e como ele pode atuar de forma estratégica em cada etapa do processo.
@@ -10,7 +10,7 @@ Aqui exploramos a **metodologia ágil Scrum** sob a ótica do **Quality Assuranc
 O **Scrum** é uma metodologia ágil voltada para o **desenvolvimento iterativo e incremental** de produtos.  
 Em vez de planejar tudo antecipadamente, o Scrum propõe **entregas frequentes, feedback contínuo e melhoria constante**.
 
-Isso torna o processo **mais flexível e adaptável** — essencial para projetos de software, onde mudanças são inevitáveis.
+Isso torna o processo **mais flexível e adaptável** - essencial para projetos de software, onde mudanças são inevitáveis.
 
 ### 📌 Princípios Fundamentais
 - **Transparência:** tudo deve ser visível ao time e aos stakeholders.  
@@ -21,7 +21,7 @@ Isso torna o processo **mais flexível e adaptável** — essencial para projeto
 
 ## 🧩 Importância do QA no Ciclo Ágil
 
-Em ambientes ágeis, o QA **não é apenas o último filtro de qualidade** — ele atua **ao longo de todo o ciclo**, garantindo que o produto seja construído corretamente desde o início.
+Em ambientes ágeis, o QA **não é apenas o último filtro de qualidade** - ele atua **ao longo de todo o ciclo**, garantindo que o produto seja construído corretamente desde o início.
 
 O QA no Scrum:
 - Participa **ativamente das cerimônias** (planejamento, dailies, review e retrospectiva).  
@@ -30,7 +30,7 @@ O QA no Scrum:
 - **Previne defeitos** com testes exploratórios e automatizados.  
 - Promove a **mentalidade de qualidade compartilhada** dentro do time.  
 
-> 💬 Em Scrum, **a qualidade é responsabilidade de todos**, mas o QA é o **guia técnico e estratégico** para alcançá-la.
+> Em Scrum, **a qualidade é responsabilidade de todos**, mas o QA é o **guia técnico e estratégico** para alcançá-la.
 
 ---
 
@@ -63,24 +63,24 @@ O QA no Scrum:
 
 | Etapa do Scrum | Atuação do QA | Valor Gerado |
 |----------------|----------------|----------------|
-| **Refinement** | Levanta cenários de teste, riscos e critérios de aceitação. | Histórias bem definidas e testáveis. |
-| **Sprint Planning** | Ajuda a definir o que é "pronto" (DoD) e estimar esforço. | Planejamento mais realista e previsível. |
-| **Sprint Execution** | Executa testes manuais/automáticos e apoia devs na validação contínua. | Detecção precoce de falhas. |
-| **Daily Scrum** | Informa status de testes e bloqueios. | Transparência e agilidade no ajuste de prioridades. |
-| **Sprint Review** | Apresenta evidências e métricas de qualidade. | Feedback mais rico e embasado. |
-| **Retrospective** | Sugere melhorias no processo e na colaboração. | Evolução contínua da qualidade e do time. |
+| **Refinamento** | Levanta cenários de teste, riscos e critérios de aceitação. | Histórias bem definidas e testáveis. |
+| **Planning** | Ajuda a definir o que é "pronto" (DoD) e estimar esforço. | Planejamento mais realista e previsível. |
+| **Durante a Sprint** | Executa testes manuais/automáticos e apoia devs na validação contínua. | Detecção precoce de falhas. |
+| **Daily** | Informa status de testes e bloqueios. | Transparência e agilidade no ajuste de prioridades. |
+| **Review** | Apresenta evidências e métricas de qualidade. | Feedback mais rico e embasado. |
+| **Retro** | Sugere melhorias no processo e na colaboração. | Evolução contínua da qualidade e do time. |
 
 ---
 
 ## 🚀 Como o QA Pode se Diferenciar no Time Ágil
 
-- 🔍 Ser **proativo**: levantar dúvidas e riscos antes que virem problemas.  
-- 🤝 Ser **colaborativo**: trabalhar junto ao dev e PO, de forma integrada.  
-- 📈 Ser **orientado a métricas**: trazer dados sobre qualidade e performance.  
-- 🧩 Ser **multidisciplinar**: dominar ferramentas de automação, análise e monitoramento.  
-- 💡 Ser **educador**: ajudar o time a adotar boas práticas de qualidade e prevenção de defeitos.  
+- Ser **proativo**: levantar dúvidas e riscos antes que virem problemas.  
+- Ser **colaborativo**: trabalhar junto ao dev e PO, de forma integrada.  
+- Ser **orientado a métricas**: trazer dados sobre qualidade e performance.  
+- Ser **multidisciplinar**: dominar ferramentas de automação, análise e monitoramento.  
+- Ser **educador**: ajudar o time a adotar boas práticas de qualidade e prevenção de defeitos.  
 
-> O QA ágil **não testa apenas o produto**, ele **testa o processo** — e o melhora continuamente.
+> O QA ágil **não testa apenas o produto**, ele **testa o processo** - e o melhora continuamente.
 
 ---
 
@@ -101,10 +101,10 @@ O QA no Scrum:
 
 ## 📘 Conclusão
 
-O QA no Scrum é muito mais que um executor de testes — é um **agente de melhoria contínua**, **guardião da qualidade** e **colaborador estratégico** do time.  
+O QA no Scrum é muito mais que um executor de testes - é um **agente de melhoria contínua**, **guardião da qualidade** e **colaborador estratégico** do time.  
 Ao atuar desde o planejamento até a entrega, o QA garante que **a qualidade não seja um estágio**, mas sim **uma cultura**.
 
-> 🧠 *"A verdadeira agilidade não é entregar mais rápido, é entregar melhor."*
+> *"A verdadeira agilidade não é entregar mais rápido, é entregar melhor."*
 
 ---
 
