@@ -1,4 +1,4 @@
-# 🌟 Boas Práticas e Mentalidade de um QA Diferenciado
+# Mentalidade de um QA Diferenciado
 
 Mais importante do que **relatar o bug**, é **entender o impacto** que ele causa no sistema - e no negócio.  
 Um QA de verdade não se limita a encontrar falhas; ele **compreende o valor que cada falha representa** e ajuda o time a **tomar decisões melhores**.
@@ -7,7 +7,7 @@ Este documento reúne reflexões e boas práticas para quem deseja ir além dos 
 
 ---
 
-## 🧭 O Papel Além do Teste
+## O Papel Além do Teste
 
 O QA não é o “último filtro”.  
 Ele é o **guardião da experiência**, o **tradutor entre tecnologia e necessidade humana**, o **advogado do usuário** dentro do time.
@@ -19,9 +19,9 @@ Um QA diferenciado entende que:
 
 ---
 
-## 💡 Boas Práticas Que Vão Além do Óbvio
+## Boas Práticas Que Vão Além do Óbvio
 
-### 1. 🔍 Relatar mais do que o erro - relatar o impacto
+### 1. Relatar mais do que o erro - relatar o impacto
 Ao descrever um bug, pergunte-se:
 - O que esse erro causa no fluxo do usuário?  
 - Há risco de **perda financeira, dados incorretos, frustração ou abandono**?  
@@ -32,7 +32,7 @@ Ao descrever um bug, pergunte-se:
 
 ---
 
-### 2. 🧠 Pensar como usuário, agir como cientista
+### 2. Pensar como usuário, agir como cientista
 
 - Observe o sistema com **olhar humano** - imagine a pressa, o contexto e as emoções do usuário real.  
 - Questione hipóteses: “E se o usuário fizer diferente do esperado?”  
@@ -43,7 +43,7 @@ Ao descrever um bug, pergunte-se:
 
 ---
 
-### 3. 🎯 Priorizar o que gera valor
+### 3. Priorizar o que gera valor
 
 Nem todo bug tem o mesmo peso.  
 Um QA maduro entende que **priorizar é essencial**:
@@ -56,7 +56,7 @@ Um QA maduro entende que **priorizar é essencial**:
 
 ---
 
-### 4. 🤝 Ser parceiro, não apenas auditor
+### 4. Ser parceiro, não apenas auditor
 
 Um QA diferenciado:
 - Trabalha **junto** com devs, POs e designers desde o início.  
@@ -69,7 +69,7 @@ Um QA diferenciado:
 
 ---
 
-### 5. 🧩 Ver além do método
+### 5. Ver além do método
 
 Metodologias e frameworks são guias, não muros.  
 Um QA visionário:
@@ -82,7 +82,7 @@ Um QA visionário:
 
 ---
 
-### 6. 🔄 Aprender, ensinar e evoluir sempre
+### 6. Aprender, ensinar e evoluir sempre
 
 - Documente lições aprendidas e compartilhe com o time.  
 - Estude além da área: UX, DevOps, negócio, psicologia do usuário.  
@@ -93,7 +93,7 @@ Um QA visionário:
 
 ---
 
-## 🌱 Mentalidade de Excelência
+## Mentalidade de Excelência
 
 Ser um QA diferenciado é **unir técnica, empatia e propósito**.  
 É perceber que cada teste é uma forma de proteger a confiança que o usuário deposita no produto.
@@ -102,13 +102,13 @@ Ser um QA diferenciado é **unir técnica, empatia e propósito**.
 
 ---
 
-📘 **Conclusão**
+**Conclusão**
 
 Mais do que garantir que “tudo funcione”, o QA garante que **tudo faça sentido**.  
 A diferença entre um QA comum e um QA extraordinário está **no olhar** - aquele que vê o que o sistema faz, **e o que ele causa**.
 
 ---
 
-📌 **Contribua!**  
+**Contribua!**  
 Tem boas práticas, reflexões ou experiências que ajudaram você a enxergar a qualidade de outro jeito?  
-Abra um `Pull Request` e compartilhe sua visão com a comunidade 💬
+Abra um `Pull Request` e compartilhe sua visão com a comunidade

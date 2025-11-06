@@ -1,6 +1,6 @@
-# 🤖 Plano de Teste — Localiza Pesados
+#  Plano de Teste - Localiza Pesados
 
-## 📘 Informações Gerais
+## Informações Gerais
 - *Projeto:* Localiza Pesados  
 - *Responsável:* Victor  
 - *Data de Criação:* 2025-10-30  
@@ -8,17 +8,17 @@
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 Validar o fluxo principal do usuário para localizar e solicitar locação de um veículo pesado (caminhão): acesso ao site, busca/listagem, visualização de detalhes do veículo e acionar contato/solicitação de locação.
 
 ---
 
-## 📦 Resumo do Projeto
+## Resumo do Projeto
 Aplicação web pública para consulta e solicitação de locação de veículos pesados. Testes cobrem funcionalidades de navegação, filtragem básica, visualização de detalhamento do veículo e acionamento do contato/solicitação.
 
 ---
 
-## ⚙ Ambiente de Execução
+## Ambiente de Execução
 - *Sistema Operacional:* Windows 10/11 (primário)  
 - *Navegador / Versão:* Chrome (última); também testar em Edge/Firefox conforme necessidade 
 - *Base de Dados:* Ambiente de homologação (staging) conectado ao backend de catálogo  
@@ -27,14 +27,14 @@ Aplicação web pública para consulta e solicitação de locação de veículos
 
 ---
 
-## 🔗 Dependências e Pré-Requisitos
+## Dependências e Pré-Requisitos
 - Ambiente de homologação disponível e populado com catálogo de veículos  
 - Endpoints de envio de contato/solicitação habilitados no ambiente de teste  
 - Acesso à internet e máquinas com navegadores suportados
 
 ---
 
-## 🏗 Níveis de Teste
+## Níveis de Teste
 - [ ] Unitário  
 - [x] Integração (para API de catálogo/solicitação)  
 - [x] Sistema / E2E (fluxo usuário)  
@@ -42,7 +42,7 @@ Aplicação web pública para consulta e solicitação de locação de veículos
 
 ---
 
-## 🧩 Tipos de Teste
+## Tipos de Teste
 - [x] Funcional – valida fluxo de busca, detalhe e contato  
 - [x] Regressão – scripts automatizados para verificar quebra do fluxo  
 - [ ] Performance – (opcional) validar tempo de resposta da listagem em cargas maiores  
@@ -53,7 +53,7 @@ Aplicação web pública para consulta e solicitação de locação de veículos
 
 ---
 
-## 📋 Casos de Teste (detalhados)
+## Casos de Teste (detalhados)
 
 Caso TST-001 — Acessar página inicial
 - Pré-condição: ambiente staging disponível
@@ -103,7 +103,7 @@ Caso TST-005 — Fluxo negativo: formulário inválido
 
 ---
 
-## ✅ Checklist de Aprovação do Plano
+## Checklist de Aprovação do Plano
 - [x] Projeto preenchido  
 - [x] Níveis de teste selecionados  
 - [x] Tipos de teste selecionados  
@@ -113,14 +113,14 @@ Caso TST-005 — Fluxo negativo: formulário inválido
 
 ---
 
-## 📊 Métricas e Critérios de Aceitação
+## Métricas e Critérios de Aceitação
 - Tempo de carregamento da listagem: < 3s em ambiente de homologação (média)  
 - Fluxo de solicitação: 100% de sucesso nas requisições em staging (sem erros 5xx)  
 - Defeitos críticos: 0 bloqueadores antes de liberar para QA de aceitação
 
 ---
 
-## 🔗 Links Úteis
+## Links Úteis
 - Repositório: (preencher)  
 - Endpoint catálogo (staging): (preencher)  
 - Endpoint contato/solicitação (staging): (preencher)  
