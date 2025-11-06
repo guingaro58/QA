@@ -14,6 +14,4 @@ Aqui você encontrará exemplos de automação de testes, boas práticas, anota�
 - Estudos sobre metodologias ágeis e CI/CD
 - Scripts e frameworks de automação (Em breve)  
 
----
-
 Sinta-se à vontade para explorar, sugerir melhorias e trocar ideias! 🚀
